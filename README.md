@@ -12,7 +12,8 @@
  Hey there !!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
+
+
 ### 👨‍💻: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 - 🔭: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -42,5 +43,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangzBredz04&layout=compact&theme=vision-friendly-dark)](https://github.com/kangzBredz04/github-readme-stats)
 
 ---
-
-### :writing_hand: Blog Posts :
