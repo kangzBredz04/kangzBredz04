@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bandung city, West Java, Indonesia
 * 🖥️  See my portfolio at [kangbredz04](http://kangbredz04.vercel.app)
-* ✉️  You can contact me at [wabredz1234@gmail.com](mailto:wabredz1234@gmail.com)
+* ✉️  You can contact me at [wabredz1234@gmail.com](mailto:wabredz1234@gmail.com) or [ww4697175@gmail.com](mailto:ww4697175@gmail.com)
 * 🧠  I'm learning ReactJS, ExpressJS, Laravel and Spring Boot
 * 🤝  I'm open to collaborating on Java, PHP and Javascript
 * ⚡  If life is like coding, you are the most beautiful comment that makes everything easier to understand
