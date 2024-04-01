@@ -35,8 +35,6 @@ src="https://img.shields.io/github/followers/kangzBredz04?logo=github&style=for-
 
 <a href="http://www.github.com/kangzBredz04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kangzBredz04&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="https://github.com/kangzBredz04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangzBredz04&langs_count=10&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/kangzBredz04/auto-bredz-gallery" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kangzBredz04&repo=auto-bredz-gallery&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/kangzBredz04/bredz-task" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kangzBredz04&repo=bredz-task&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
