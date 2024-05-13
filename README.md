@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/l6JNjLQZdk9CnUOq9f/giphy.gif?cid=6c09b952d9kjh2havbrq5iudugdj8m7hxuwlwrffox9dx4r3&ep=v1_stickers_related&rid=giphy.gif&ct=ts" width="250"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Wahyu (kangzBredz)</h1>
+<h1 align="center">Hi 👋, I'm Wahyu (kangzBredz or Wabred'z)</h1>
 <h3 align="center">Deploying Code, Drinking Coffee: My GitHub Journey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangzbredz04&label=Profile%20views&color=0e75b6&style=flat" alt="kangzbredz04" /> </p>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [kangbredz04.vercel.app](kangbredz04.vercel.app)
 
-- 💬 Ask me about **Java, HTML, CSS, Javascript and PHP**
+- 💬 Ask me about **Java, HTML, CSS, Javascript, React and PHP**
 
 - 📫 How to reach me **wabredz1234@gmail.com or ww4697175@gmail.com**
 
