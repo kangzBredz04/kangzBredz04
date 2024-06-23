@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS, ExpressJS, Laravel and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [kangbredz04.vercel.app](kangbredz04.vercel.app)
+- 👨‍💻 All of my projects are available at [https://kangbredz04.vercel.app](kangbredz04.vercel.app)
 
 - 💬 Ask me about **Java, HTML, CSS, Javascript, React and PHP**
 
