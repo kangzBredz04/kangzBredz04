@@ -2,7 +2,7 @@
  <!-- 
   <img src="https://media1.giphy.com/media/l6JNjLQZdk9CnUOq9f/giphy.gif?cid=6c09b952d9kjh2havbrq5iudugdj8m7hxuwlwrffox9dx4r3&ep=v1_stickers_related&rid=giphy.gif&ct=ts" width="250"/>
   -->
-    <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="250"/>
+    <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="auto"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Wahyu (kangzBredz or Wabred'z)</h1>
